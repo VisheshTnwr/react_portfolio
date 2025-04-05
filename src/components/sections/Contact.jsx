@@ -10,7 +10,7 @@ export const Contact = () => {
       <RevealOnScroll>
         <div className="px-4 w-150">
           <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent text-center ">
-            Get in Touch
+            Get in Touch.
           </h2>
           <form action="submit" className="space-y-6">
             <div className="relative">
