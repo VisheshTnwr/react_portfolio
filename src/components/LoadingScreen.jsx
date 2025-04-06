@@ -31,7 +31,7 @@ export const LoadingScreen = ({ onComplete }) => {
       </div>
 
       <div className="w-[200px] h-[2px] bg-gray-800 rounded relative overflow-hidden">
-        <div className="w-[40%] h-full bg-blue-500 shadow-[0_0_15px_#b82f6] animate-loading-bar">
+        <div className="w-[40%] h-full bg-yellow-500 shadow-[0_0_15px_#b82f6] animate-loading-bar">
           {" "}
         </div>
       </div>
