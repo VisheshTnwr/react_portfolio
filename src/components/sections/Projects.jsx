@@ -34,7 +34,6 @@ export const Projects = () => {
                   className="text-yellow-400 hover:text-yellow-300 transition-colors my-4"
                 >
                   {" "}
-                  
                   View Project ¬
                 </a>
               </div>
