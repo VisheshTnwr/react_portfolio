@@ -24,7 +24,6 @@ export const Contact = () => {
       })
       .catch(() => alert("Oops Something went wrong try again."));
   };
-
   return (
     <section
       id="contact"
